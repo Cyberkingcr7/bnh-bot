@@ -27,9 +27,9 @@ Button : press here to deploy bnh
 -   Built with [Baileys](https://github.com/adiwajshing/baileys) (The Best
     WhatsApp Library Out There)
 
-## 💻 Deploy/Hosting Guide
+## 💻 Deploy maintained bnh
 
--   Section Moved to [Kaoi-Guides](https://github.com/Hiroto77/Kaoi-Guides)
+-   Section Moved to [DEPLOY BNH](https://github.com/Cyberkingcr7/Bnh)
 
 ## 🍥 Features of the Repo
 
