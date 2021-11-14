@@ -38,7 +38,7 @@ export default class Command extends BaseCommand {
             let text = ` 🌊hello! *${M.sender.username}*, I'm bnh.\n\nMy prefix is - "${this.client.config.prefix}"\n\nThe usable commands are listed below.\n\n`
             const keys = Object.keys(categories)
             for (const key of keys)
-                text +=  *╚『•*${this.emojis[keys.indexOf(key)]} *${this.client.util.capitalize(key)}* *•』╝*\n❐ \`\`\`${categories[
+                text +=  ${this.emojis[keys.indexOf(key)]} *${this.client.util.capitalize(key)}* \n❐ \`\`\`${categories[
                     key
                 ]
                     .map((command) => command.config?.command)
